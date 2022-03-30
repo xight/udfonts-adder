@@ -12,6 +12,10 @@ Microsoft Office for Macのユーザ定義フォントにモリサワBIZ UDゴ�
 % ./install.sh
 ```
 
+## Screenshots
+
+![screenshot](https://user-images.githubusercontent.com/1628669/160765482-15ea9720-64af-4cad-9fb8-0ce0e55ad354.png)
+
 ## References
 
 * [googlefonts / morisawa-biz-ud-gothic](https://github.com/googlefonts/morisawa-biz-ud-gothic)
